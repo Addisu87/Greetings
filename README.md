@@ -1,9 +1,6 @@
 <a name="readme-top"></a>
 
 <div align="center">
-  <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
-  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
-  <br/>
 
   <h3><b>Greetings</b></h3>
 
@@ -50,21 +47,7 @@
 <details>
   <summary>Client</summary>
   <ul>
-    <li><a href="https://reactjs.org/">React.js</a></li>
-  </ul>
-</details>
-
-<details>
-  <summary>Server</summary>
-  <ul>
-    <li><a href="https://expressjs.com/">Express.js</a></li>
-  </ul>
-</details>
-
-<details>
-<summary>Database</summary>
-  <ul>
-    <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
+    <li><a href="https://javascirpt.org/">JavaScipt</a></li>
   </ul>
 </details>
 
@@ -102,13 +85,11 @@ To get a local copy up and running, follow these steps.
 
 In order to run this project you need:
 
-<!--
 Example command:
 
 ```sh
- gem install rails
+ npm install
 ```
- -->
 
 ### Setup
 
